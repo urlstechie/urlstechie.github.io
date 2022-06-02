@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Urlchecker
-      uses: urlstechie/urlchecker-action@0.1.7
+      uses: urlstechie/urlchecker-action@0.0.27
       with:
 
         # A comma-separated list of file types to cover in the URL checks
